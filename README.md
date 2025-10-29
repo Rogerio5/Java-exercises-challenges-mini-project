@@ -97,6 +97,10 @@ Projeto_1/
  └── README.md                    # Documentação completa
 ```
 
+## 🌐 Acesso / Access
+
+- [🔗 Repositório GitHub / GitHub Repository](https://github.com/Rogerio5/Java-exercises-challenges-mini-project)
+
 ---
 
 ## 🧰 Tecnologias / Technologies
