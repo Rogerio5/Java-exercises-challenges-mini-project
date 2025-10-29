@@ -133,21 +133,6 @@ This project was built using the following technologies and tools:
 
 ---
 
-🕒 Linha do Tempo / Timeline
-
-📌 Etapa 1 – Exercícios 1 a 16
-   • Fundamentos de Java
-   • Estruturas, coleções, exceções, arquivos
-
-📌 Etapa 2 – Desafios
-   • Integração de conceitos
-   • Desafio2: JSON + Gson + Arquivos
-
-📌 Etapa 3 – MiniProjeto
-   • Sistema em Java simulando caso real
-
----
-
 ## 👨‍💻 Desenvolvedor / Developer
 
 - [Rogerio](https://github.com/Rogerio5)
